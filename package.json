@@ -1,0 +1,14 @@
+{
+  "name": "hoghweed.github.io",
+  "version": "0.0.1",
+  "description": "codebrainr personal blog",
+  "main": "index.js",
+  "repository": "https://github.com/hoghweed/hoghweed.github.io.git",
+  "author": "manuel.martone@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.2",
+    "vuepress": "^1.5.0"
+  }
+}
